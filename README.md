@@ -34,10 +34,12 @@ Clone the repository:
 ```bash
 git clone https://github.com/votre-utilisateur/ImageClust.git
 cd ImageClust
-
 pip install -r requirements.txt
-
 python preprocess.py
 python train.py
 python evaluate.py
+```
+### Visualization
+Clustering des images k=10 :
+![Clust](images/clust.png)
 
