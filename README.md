@@ -41,5 +41,5 @@ python evaluate.py
 ```
 ### Visualization
 Clustering des images k=10 :
-![Clust](images/clus.png)
+![Clust](clus.png)
 
